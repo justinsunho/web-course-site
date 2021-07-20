@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/styles.scss"
+	],
+	"sourcesContent": [
+		"@import \"styles\";\n",
+		"* {\n  font-family: -apple-system, BlinkMacSystemFont, sans-serif;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,CAAC,CAAC,EACA,WAAW,EAAE,6CAA6C,GAC3D"
+}
